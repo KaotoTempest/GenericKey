@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c67387f-4703-47d9-98ca-2fed3836c91c" name="Default" comment="First Commit">
-      <change type="DELETED" beforePath="C:\Users\TOSHIBA\IdeaProjects\GenericKey\DevModule\src\mental\Core\Elements\TextElementTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="4c67387f-4703-47d9-98ca-2fed3836c91c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GenericKey.iws" />
@@ -115,7 +113,7 @@
       <file leaf-file-name="TextElement.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DevModule/src/mental/Core/Elements/TextElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="663">
+            <state line="10" column="13" selection-start="185" selection-end="185" vertical-scroll-proportion="0.4187192" vertical-offset="0" max-vertical-offset="663">
               <folding>
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#259#260#0" expanded="true" />
@@ -546,12 +544,16 @@
       <created>1395518651818</created>
       <updated>1395518651818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1395527793704</created>
+      <updated>1395527793704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -571,7 +573,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -676,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DevModule/src/mental/Core/Elements/TextElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="663">
+        <state line="10" column="13" selection-start="185" selection-end="185" vertical-scroll-proportion="0.4187192" vertical-offset="0" max-vertical-offset="663">
           <folding>
             <element signature="e#222#223#0" expanded="true" />
             <element signature="e#259#260#0" expanded="true" />
